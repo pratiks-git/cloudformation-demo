@@ -1,7 +1,7 @@
 {
     "AWSTemplateFormatVersion" : "2010-09-09",
   
-    "Description" : "----------AWS CloudFormation Sample Template to create S3 bucket -------",
+    "Description" : "AWS CloudFormation Sample Template to create S3 bucket",
      
     "Resources" :{
         "myS3Bucket" : {
