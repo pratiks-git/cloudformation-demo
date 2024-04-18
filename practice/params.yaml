@@ -1,4 +1,0 @@
----
-KeyName: "myEC2Key"
-InstanceType: "t2.small"
-SSHLocation: "0.0.0.0/0"
