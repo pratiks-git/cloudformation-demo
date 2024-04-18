@@ -1,3 +1,8 @@
-template-file-path: practice/params.json
-parameters: {}
+template-file-path: practice/EC2_stack.yaml
+parameters: {
+  "KeyName": "myEC2Key",
+  "InstanceType": "t2.small",
+  "SSHLocation": "0.0.0.0/0"
+  
+}
 tags: {}
