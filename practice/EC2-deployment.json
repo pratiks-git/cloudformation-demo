@@ -2,7 +2,7 @@
   "template-file-path": "practice/EC2_stack.json",
   "parameters": {
     "KeyName": "myEC2Key",
-    "InstanceType": "t2.small",
+    "InstanceType": "t2.micro",
     "SSHLocation": "0.0.0.0/0"
   
   },
