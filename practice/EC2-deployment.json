@@ -1,5 +1,5 @@
 {
-  "template-file-path": "practice/EC2_stack.yaml",
+  "template-file-path": "practice/EC2_stack.json",
   "parameters": {
     "KeyName": "myEC2Key",
     "InstanceType": "t2.small",
